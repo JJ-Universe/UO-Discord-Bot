@@ -1,0 +1,28 @@
+{
+  "name": "uobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RealJJUniverse",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "erela.js": "^2.3.3",
+    "erela.js-deezer": "^1.0.7",
+    "erela.js-spotify": "^1.2.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.2.10",
+    "path": "^0.12.7",
+    "simple-node-logger": "^21.8.12",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  }
+}

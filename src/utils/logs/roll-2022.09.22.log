@@ -1,0 +1,50 @@
+00:08:43.825 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:08:43.880 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:08:43.997 ERROR An invalid token was provided. 
+00:10:27.404 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:10:27.475 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:10:27.579 ERROR An invalid token was provided. 
+00:10:53.404 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:10:53.422 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:10:53.463 ERROR An invalid token was provided. 
+00:14:29.047 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:14:29.062 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:14:29.170 ERROR An invalid token was provided. 
+00:15:19.680 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:15:19.728 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:15:20.101 ERROR An invalid token was provided. 
+00:18:54.485 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:18:54.554 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:18:55.015 ERROR An invalid token was provided. 
+00:19:09.608 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:19:09.643 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:19:09.865 ERROR An invalid token was provided. 
+00:21:17.398 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:21:17.418 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:21:17.648 ERROR An invalid token was provided. 
+00:22:43.367 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:22:43.419 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:28:09.551 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:28:09.631 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:28:09.673 ERROR Failed to load Event: ready error: Cannot find module '../../database/models'
+Require stack:
+- C:\Users\jerma\Documents\UOBot\src\events\bot\ready.js
+- C:\Users\jerma\Documents\UOBot\src\bot.js 
+00:32:14.224 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:32:14.252 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:32:14.353 ERROR Failed to load Event: ready error: Cannot find module '../../database/models'
+Require stack:
+- C:\Users\jerma\Documents\UOBot\src\events\bot\ready.js
+- C:\Users\jerma\Documents\UOBot\src\bot.js 
+00:32:38.739 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:32:38.820 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:32:38.950 INFO  Loading Event: ready 
+00:32:39.488 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+00:32:39.489 INFO  UO Testing#0379, ready to serve [1] users in [1] servers. 
+00:32:39.489 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+00:40:59.229 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:40:59.351 INFO  =-=-=-=-=-=-=- Loading events(s) -=-=-=-=-=-=-= 
+00:40:59.507 INFO  Loading Event: ready 
+00:41:00.057 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+00:41:00.058 INFO  UO Testing#0379, ready to serve [1] users in [1] servers. 
+00:41:00.058 INFO  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
